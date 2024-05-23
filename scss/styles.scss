@@ -137,8 +137,8 @@ a {
 }
 nav {
 	img {
-		float: left;
 		padding-right: 1120px;
+		float: left;
 	}
 }
 section {
@@ -303,12 +303,8 @@ div {
 }
 #locacion {
 	text-align: center;
-	padding: 70px;
+	padding: 10px;
 	display: flex;
-	p {
-		padding-top: 135px;
-		padding-right: 200px;
-	}
 	img {
 		width: 150px;
 		height: 60px;
@@ -521,11 +517,6 @@ footer {
 		text-align: center;
 		padding: 10px;
 		display: flex;
-		p {
-			padding-top: 110px;
-			padding-right: 200px;
-			font-size: 20px;
-		}
 		img {
 			width: 30px;
 			height: 30px;
