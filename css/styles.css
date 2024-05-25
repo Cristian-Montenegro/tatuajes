@@ -378,7 +378,7 @@ footer nav svg {
     width: 410px;
     height: 280px;
     margin: 10px;
-    margin-left: 10px;
+    margin-left: 50px;
   }
   #titulo p {
     padding: 20px;
@@ -386,7 +386,7 @@ footer nav svg {
   }
   #info {
     background-image: url(../assets/maquina-mobile.jpg);
-    width: 430px;
+    width: 500px;
     height: 549px;
   }
   #info h2 {
